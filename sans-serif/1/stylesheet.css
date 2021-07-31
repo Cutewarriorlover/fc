@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./fonts/montserrat/Montserrat-Medium.eot');
+    src: local('Montserrat Medium'), local('Montserrat-Medium'),
+        url('./fonts/montserrat/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/montserrat/Montserrat-Medium.woff2') format('woff2'),
+        url('./fonts/montserrat/Montserrat-Medium.woff') format('woff'),
+        url('./fonts/montserrat/Montserrat-Medium.ttf') format('truetype'),
+        url('./fonts/montserrat/Montserrat-Medium.svg#Montserrat-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('./fonts/archivo_black/ArchivoBlack-Regular.eot');
+    src: local('Archivo Black Regular'), local('ArchivoBlack-Regular'),
+        url('./fonts/archivo_black/ArchivoBlack-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/archivo_black/ArchivoBlack-Regular.woff2') format('woff2'),
+        url('./fonts/archivo_black/ArchivoBlack-Regular.woff') format('woff'),
+        url('./fonts/archivo_black/ArchivoBlack-Regular.ttf') format('truetype'),
+        url('./fonts/archivo_black/ArchivoBlack-Regular.svg#ArchivoBlack-Regular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('./fonts/jetbrains_mono/JetBrainsMono-Regular.eot');
+    src: local('JetBrains Mono Regular'), local('JetBrainsMono-Regular'),
+        url('./fonts/jetbrains_mono/JetBrainsMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/jetbrains_mono/JetBrainsMono-Regular.woff2') format('woff2'),
+        url('./fonts/jetbrains_mono/JetBrainsMono-Regular.woff') format('woff'),
+        url('./fonts/jetbrains_mono/JetBrainsMono-Regular.ttf') format('truetype'),
+        url('./fonts/jetbrains_mono/JetBrainsMono-Regular.svg#JetBrainsMono-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Archivo";
+}
+
+p, li {
+    font-family: "Montserrat";
+}
+
+code, pre, kbd, samp {
+    font-family: "JetBrains Mono";
+}
