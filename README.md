@@ -15,6 +15,10 @@ Things that I would like to be contributed:
 * Names (currently, they're named `1`, `2`, etc.)
 * Font ideas (duh)
 
+
+## Where did I get the fonts?
+
+[Google Fonts](https://fonts.google.com)
 ## What does the name stand for?
 
 **F**ont **C**ollection
